@@ -1,5 +1,5 @@
 # Fruit-Catcher-Dynamic-Arcade-Game
-# Game Play 
+## Game Play 
 
 
 https://github.com/user-attachments/assets/f25876a9-a386-4e29-85fd-6244a9dce371
