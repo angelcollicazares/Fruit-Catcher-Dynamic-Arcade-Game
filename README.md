@@ -1,4 +1,10 @@
 # Fruit-Catcher-Dynamic-Arcade-Game
+# Game Play 
+
+
+https://github.com/user-attachments/assets/f25876a9-a386-4e29-85fd-6244a9dce371
+
+
 
 ## Play State
 ![IMG_2250](https://github.com/user-attachments/assets/9d5b2ae0-6fea-41f8-8ffd-7ab22e7c3cc1)
