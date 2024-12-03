@@ -19,5 +19,5 @@ https://github.com/user-attachments/assets/0775a6ad-0dcc-4107-a5ac-09d4bb7a7a2b
 
 ## Idle State
 ![IMG_2252](https://github.com/user-attachments/assets/167bc35b-0ba8-4e79-aca1-3828dbf3d405)
-### Displayed Before Game Is started or After a Game has been Won or Lost. Serves as an Neutral Intermissin Screen Between Games
+### Displayed Before Game Is started or After a Game has been Won or Lost. Serves as an Neutral Intermission Screen Between Games
 
